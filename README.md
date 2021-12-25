@@ -4,15 +4,6 @@
 
 A Plymouth theme inspired by OS1 from the movie Her that supports encrypted boot setups
 
-
-if you are using an unencrypted boot drive, replace this line ```:87```  in ```os_1.script```
-
-```Plymouth.SetRefreshFunction (refresh_callback_with_password);```
-
-with
-
-``` Plymouth.SetRefreshFunction (refresh_callback); ```
-
 # Preview
 https://user-images.githubusercontent.com/29256024/147393169-4e8f32bf-6007-4a2e-a952-ef43b8da4211.mp4
 
@@ -34,6 +25,15 @@ sudo update-alternatives --install /usr/share/plymouth/themes/default.plymouth d
 sudo update-alternatives --config default.plymouth
 sudo update-initramfs -u
 ```
+
+if you are using an unencrypted boot drive, replace this line ```:87```  in ```os_1.script```
+
+```Plymouth.SetRefreshFunction (refresh_callback_with_password);```
+
+with
+
+``` Plymouth.SetRefreshFunction (refresh_callback); ```
+
 #### Animation Credit
 YouTube @That Martian
 
