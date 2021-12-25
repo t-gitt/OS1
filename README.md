@@ -26,13 +26,9 @@ sudo update-alternatives --install /usr/share/plymouth/themes/default.plymouth d
 sudo update-alternatives --config default.plymouth
 sudo update-initramfs -u
 ```
-
-if you are using an unencrypted boot drive, replace this line ```:87```  in ```os_1.script```
-
+> if you are using an unencrypted boot drive, replace this line ```:87```  in ```os_1.script```
 ```Plymouth.SetRefreshFunction (refresh_callback_with_password);```
-
 with
-
 ``` Plymouth.SetRefreshFunction (refresh_callback); ```
 
 #### Animation Credit
