@@ -5,7 +5,8 @@
 A Plymouth theme inspired by OS1 from the movie Her that supports encrypted boot setups
 
 # Preview
-https://user-images.githubusercontent.com/29256024/147393169-4e8f32bf-6007-4a2e-a952-ef43b8da4211.mp4
+https://user-images.githubusercontent.com/29256024/147393235-aba7618f-942d-49b5-91bd-7c50b2155483.mp4
+
 
 # Installation
 
