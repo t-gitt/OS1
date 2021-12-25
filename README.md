@@ -22,7 +22,7 @@ sudo plymouth-set-default-theme os1 -R
 git clone https://github.com/t-gitt/OS1.git
 cd OS1/
 sudo cp -r os1 /usr/share/plymouth/themes/
-sudo update-alternatives --install /usr/share/plymouth/themes/default.plymouth default.plymouth /usr/share/plymouth/themes/os1/os1.plymouth 100
+sudo update-alternatives --install /usr/share/plymouth/themes/default.plymouth default.plymouth /usr/share/plymouth/themes/os1/os_1.plymouth 100
 sudo update-alternatives --config default.plymouth
 sudo update-initramfs -u
 ```
