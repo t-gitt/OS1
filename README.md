@@ -38,4 +38,4 @@ with
 #### Animation Credit
 YouTube @That Martian
 
-[![Her - Loading OS1](https://img.youtube.com/vi/WOeyLpgjQ5Y/0.jpg)](https://www.youtube.com/watch?v=WOeyLpgjQ5Y)
+[Her - Loading OS1 Video Animation](https://www.youtube.com/watch?v=WOeyLpgjQ5Y)
