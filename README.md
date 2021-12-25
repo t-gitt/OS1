@@ -13,6 +13,9 @@ with
 
 ``` Plymouth.SetRefreshFunction (refresh_callback); ```
 
+# Preview
+https://user-images.githubusercontent.com/29256024/147393169-4e8f32bf-6007-4a2e-a952-ef43b8da4211.mp4
+
 # Installation
 
 ### Fedora
