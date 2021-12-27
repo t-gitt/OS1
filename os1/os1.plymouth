@@ -1,0 +1,7 @@
+[Plymouth Theme]
+Name=os1
+ModuleName=script
+
+[script]
+ImageDir=/usr/share/plymouth/themes/os1
+ScriptFile=/usr/share/plymouth/themes/os1/os1.script
