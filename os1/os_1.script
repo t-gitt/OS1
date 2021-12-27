@@ -38,7 +38,6 @@ loading_sprite.SetX(Window.GetX() + (Window.GetWidth() / 2 - loading_image[0].Ge
 loading_sprite.SetY(Window.GetY() + (Window.GetHeight() / 2 - loading_image[0].GetHeight() / 2));
 
 // set background size
-loading_sprite = Sprite();
 background_image = Image("background.png");
 background_sprite = Sprite();
 background_sprite.SetX(Window.GetX() + (Window.GetWidth() / 2 - background_image.GetWidth() / 2));
